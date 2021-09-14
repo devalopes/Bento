@@ -46,15 +46,15 @@ const CONFIG = {
     },
     {
       id: '2',
-      name: 'Mail',
-      icon: 'mail',
-      link: 'https://gmail.com/',
-    },
-    {
-      id: '3',
       name: 'Youtube',
       icon: 'youtube',
       link: 'https://youtube.com',
+    },
+    {
+      id: '3',
+      name: 'Mail',
+      icon: 'mail',
+      link: 'https://gmail.com/',
     },
     {
       id: '4',
@@ -64,15 +64,15 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Reddit',
-      icon: 'bookmark',
-      link: 'https://reddit.com',
-    },
-    {
-      id: '6',
       name: 'Search',
       icon: 'search',
       link: 'https://google..com/',
+    },
+    {
+      id: '6',
+      name: 'Reddit',
+      icon: 'activity',
+      link: 'https://reddit.com',
     },
   ],
 
