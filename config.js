@@ -52,9 +52,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Twitch',
-      icon: 'twitch',
-      link: 'https://twitch.com/',
+      name: 'Spotify',
+      icon: 'music',
+      link: 'https://spotify.com/',
     },
     {
       id: '4',
@@ -64,9 +64,9 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Spotify',
-      icon: 'music',
-      link: 'https://spotify.com/',
+      name: 'Twitch',
+      icon: 'twitch',
+      link: 'https://twitch.com/',
     },
     {
       id: '6',
@@ -82,7 +82,7 @@ const CONFIG = {
 
   //Icons
   firstListIcon: 'coffee',
-  secondListIcon: 'columns',
+  secondListIcon: 'sidebar',
 
   // Links
   lists: {
@@ -96,7 +96,7 @@ const CONFIG = {
         link: 'https://hackaday.io/myFeed',
       },
       {
-        name: 'arsTechnica',
+        name: 'ArsTechnica',
         link: 'https://arstechnica.com',
       },
       {
@@ -106,15 +106,15 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'neovim',
+        name: 'Neovim',
         link: 'https://reddit.com/r/neovim',
       },
       {
-        name: 'unixporn',
+        name: 'Unixporn',
         link: 'https://reddit.com/r/unixporn',
       },
       {
-        name: 'netflix',
+        name: 'Netflix',
         link: 'https://netflix.com',
       },
       {
