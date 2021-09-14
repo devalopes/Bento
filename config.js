@@ -11,15 +11,15 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'Lopes',
+  name: '',
   imageBackground: false,
   openInNewTab: false,
   twelveHourFormat: true,
 
   // Greetings
   greetingMorning: 'Good morning!',
-  greetingAfternoon: 'Good afternoon,',
-  greetingEvening: 'Good evening,',
+  greetingAfternoon: 'Good afternoon',
+  greetingEvening: 'Good evening',
   greetingNight: 'Go to sleep!',
 
   // Weather
@@ -58,9 +58,9 @@ const CONFIG = {
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'HackerNews',
+      icon: 'code',
+      link: 'https://news.ycombinator.com/',
     },
     {
       id: '5',
@@ -70,9 +70,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Odysee',
-      icon: 'youtube',
-      link: 'https://odysee.com/',
+      name: 'Search',
+      icon: 'search',
+      link: 'https://google..com/',
     },
   ],
 
