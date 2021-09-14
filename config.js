@@ -66,7 +66,7 @@ const CONFIG = {
       id: '5',
       name: 'Twitch',
       icon: 'twitch',
-      link: 'https://twitch.com/',
+      link: 'https://twitch.tv/',
     },
     {
       id: '6',
@@ -119,7 +119,7 @@ const CONFIG = {
       },
       {
         name: 'Prime',
-        link: 'https://www.amazon.com/Prime-Video',
+        link: 'https://primevideo.com',
       },
     ],
   },
