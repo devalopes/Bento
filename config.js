@@ -52,27 +52,27 @@ const CONFIG = {
     },
     {
       id: '3',
+      name: 'Twitch',
+      icon: 'twitch',
+      link: 'https://twitch.com/',
+    },
+    {
+      id: '4',
       name: 'Mail',
       icon: 'mail',
       link: 'https://gmail.com/',
     },
     {
-      id: '4',
-      name: 'HackerNews',
-      icon: 'code',
-      link: 'https://news.ycombinator.com/',
-    },
-    {
       id: '5',
-      name: 'Search',
-      icon: 'search',
-      link: 'https://google..com/',
+      name: 'Spotify',
+      icon: 'music',
+      link: 'https://spotify.com/',
     },
     {
       id: '6',
-      name: 'Reddit',
-      icon: 'activity',
-      link: 'https://reddit.com',
+      name: 'Amazon',
+      icon: 'shopping-cart',
+      link: 'https://amazon.com',
     },
   ],
 
@@ -81,45 +81,45 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'music',
-  secondListIcon: 'coffee',
+  firstListIcon: 'coffee',
+  secondListIcon: 'columns',
 
   // Links
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'HackerNews',
+        link: 'https://news.ycombinator.com',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Hackaday',
+        link: 'https://hackaday.io/myFeed',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'arsTechnica',
+        link: 'https://arstechnica.com',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'IEEE',
+        link: 'https://spectrum.ieee.org/',
       },
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'neovim',
+        link: 'https://reddit.com/r/neovim',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'unixporn',
+        link: 'https://reddit.com/r/unixporn',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'netflix',
+        link: 'https://netflix.com',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Prime',
+        link: 'https://www.amazon.com/Prime-Video',
       },
     ],
   },
