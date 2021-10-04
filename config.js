@@ -110,8 +110,8 @@ const CONFIG = {
         link: 'https://reddit.com/r/neovim',
       },
       {
-        name: 'Unixporn',
-        link: 'https://reddit.com/r/unixporn',
+        name: 'Reddit',
+        link: 'https://reddit.com',
       },
       {
         name: 'Netflix',
