@@ -110,8 +110,8 @@ const CONFIG = {
         link: 'https://reddit.com/r/neovim',
       },
       {
-        name: 'Reddit',
-        link: 'https://reddit.com',
+        name: 'Wondrium',
+        link: 'https://www.wondrium.com/home',
       },
       {
         name: 'Netflix',
