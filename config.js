@@ -6,9 +6,9 @@
 // └─┘└─┘┘└┘└  ┴└─┘└─┘┴└─┴ ┴ ┴ ┴└─┘┘└┘
 
 const CONFIG = {
-  // ┌┐ ┌─┐┌─┐┬┌─┐┌─┐
-  // ├┴┐├─┤└─┐││  └─┐
-  // └─┘┴ ┴└─┘┴└─┘└─┘
+	// ┌┐ ┌─┐┌─┐┬┌─┐┌─┐
+	// ├┴┐├─┤└─┐││  └─┐
+	// └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
   name: '',
@@ -32,9 +32,9 @@ const CONFIG = {
   defaultLatitude: '40.320',
   defaultLongitude: '-74.594',
 
-  // ┌─┐┌─┐┬─┐┌┬┐┌─┐
-  // │  ├─┤├┬┘ ││└─┐
-  // └─┘┴ ┴┴└──┴┘└─┘
+	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
+	defaultLatitude: '37.775',
+	defaultLongitude: '-122.419',
 
   // Links
   cards: [
@@ -76,9 +76,8 @@ const CONFIG = {
     },
   ],
 
-  // ┬  ┬┌─┐┌┬┐┌─┐
-  // │  │└─┐ │ └─┐
-  // ┴─┘┴└─┘ ┴ └─┘
+	// Autochange by OS
+	changeThemeByOS: true,
 
   //Icons
   firstListIcon: 'coffee',
