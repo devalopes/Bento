@@ -156,10 +156,6 @@ const CONFIG = {
         },
       ],
     },
-  ],
-
-  // Second Links Container
-  secondlistsContainer: [
     {
       icon: "sidebar",
       id: "1",
