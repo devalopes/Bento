@@ -159,7 +159,7 @@ const CONFIG = {
   ],
 
   // Second Links Container
-  secondListsContainer: [
+  secondlistsContainer: [
     {
       icon: "sidebar",
       id: "1",
